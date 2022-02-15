@@ -10,5 +10,6 @@ class sum
 		b=sc.nextInt();
 		c=a+b;
 		system.out.println("c value="+c);
+		system.out.println("thank you devops team");
 	}
 }
